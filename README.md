@@ -18,4 +18,4 @@ Bài 9 - Lập trình hướng đối tượng
 <br>
 Bài 10 - Các vấn đề mở rộng
 <br>
-Xây dựng các ứng dụng với Python
+Bài cuối - Xây dựng các ứng dụng với Python
